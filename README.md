@@ -1,2 +1,3 @@
 # cs3240-labdemo
-Lab3 assignment, unfortunately.
+Person A says: Lab3 assignment, unfortunately.
+Person B says: Lab3 assignment! Woo!

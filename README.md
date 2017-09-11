@@ -1,2 +1,2 @@
 # cs3240-labdemo
-Lab3 assignment.
+Lab3 assignment! Woo!
